@@ -1,5 +1,5 @@
 # hr-demo
 This is my first Git repo.
 <br>
-Author - Hariom Rauniyar
+Author - Hariom Kumar Rauniyar
 
